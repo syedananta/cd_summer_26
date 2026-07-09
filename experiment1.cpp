@@ -184,7 +184,7 @@ void joinNames() {
 
 
 
-
+//main
 int main() {
 
     checkNumeric();
